@@ -1,0 +1,31 @@
+:root {}
+
+button {
+  border: none;
+  border-radius: .5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  font-size: 1.5rem;
+  border: solid 1px black
+}
+
+button:hover {
+  background-color: lightgreen;
+  color: white;
+  transition-duration: .1s;
+}
+
+button:active {
+  color: black;
+}
+
+p {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+span {
+  color: lightgreen;
+}
